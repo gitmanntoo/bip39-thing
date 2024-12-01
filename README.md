@@ -1,7 +1,7 @@
 # BIP39 Thing
 
-Run from Docker: `docker run -it --rm dockmann/bip39-thing`
-Run from repo: `sh run-it.sh`
+- Run from Docker: `docker run -it --rm dockmann/bip39-thing`
+- Run from repo: `sh run-it.sh`
 
 ## Description
 
