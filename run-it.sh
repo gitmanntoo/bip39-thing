@@ -10,4 +10,4 @@ if [ -n "$1" ]; then
 fi
 
 # build and run the container
-docker run -it --rm ${TAG}
+docker run -it --rm ${TAG} $@
